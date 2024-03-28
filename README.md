@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowgarden1314&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![谷歌博客](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://blogger.hellowold.dynv6.net/)
+[![谷歌博客](https://img.shields.io/badge/%E8%B0%B7%E6%AD%8C-blogger-green)](https://blogger.hellowold.dynv6.net/)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCPEn2BZHJbheUB79GpOa2OA)
 
 
