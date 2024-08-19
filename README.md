@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowgarden1314&show_icons=true&theme=tokyonight)](https://home.night.v6.army/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirayki&show_icons=true&theme=tokyonight)](https://home.night.v6.army/)
 
 [![谷歌博客](https://img.shields.io/badge/%E8%B0%B7%E6%AD%8C-blogger-green)](https://blogger.hellowold.dynv6.net/)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCPEn2BZHJbheUB79GpOa2OA)
@@ -18,4 +18,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/shadowgarden1314/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=shadowgarden1314.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=shirayki.
