@@ -14,7 +14,7 @@
 
 </div>
 
-![头像](image/26DFFA4DD69200C19F1E1DB1BAC535A1.jpg)
+![头像](image/B4E309A5D2A076CA9EFEE11235F1F222.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/shadowgarden1314/count.svg)
 
